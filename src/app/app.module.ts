@@ -8,6 +8,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { UserdetailsComponent } from './userdetails/userdetails.component';
 
 
+
 const appRouter:Routes=[
   {
     path:"",component:UserdetailsComponent
